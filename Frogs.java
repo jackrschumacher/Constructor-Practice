@@ -6,7 +6,11 @@ class Frogs {
   public int age;
 
 
-  public frog{
+  public Frogs() {
+    this.name = "Jeff";
+    this.length = 1;
+    this.male = true;
+    this.age = 20000;
     
   }
 }
