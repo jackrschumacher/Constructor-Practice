@@ -1,5 +1,6 @@
 class Main {
   public static void main(String[] args) {
-    System.out.println("Hello world!");
+    Frogs subject500 = newFrog();
+    System.out.println(subject500.name);
   }
 }

@@ -13,4 +13,10 @@ class Frogs {
     this.age = 20000;
     
   }
+
+public Frogs(String name){
+  this.name = name;
+  this.length = 2;
+  }  
 }
+
